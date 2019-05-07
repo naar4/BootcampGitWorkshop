@@ -1,0 +1,14 @@
+
+Het Wilhelmus verslaan door middel van kali linux
+
+ola kali linux is best operating system
+
+While using kali linux one should be aware of external factors on external hardware plugged in our main machine.
+While using kali linux you can influence E corp. Make use of the external backdoors that you have planted physically
+on location. 
+
+Rule 1 : people always have flaws and openings, make use of these openings to exploit possible interactions.
+Rule 2 : Always keep your hardware clean and your traces invinsible. When compromised use a hard cleanup.
+Rule 3 : E corp can not be defeated with one simple line of code or one simple action
+Rule 4 : When leaving Fun society you dont bring electronics out.
+Rule 5 : Use throwaway phones.
